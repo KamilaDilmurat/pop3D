@@ -8,12 +8,12 @@
 
     
       /*var map = new Map({
-        basemap: "streets",
+        basemap: "dark-gray",
         ground: "world-elevation"
       });*/
       var scene = new WebScene({
         portalItem:{
-         id:"fbbbaa2fbfda41b8b3f96427c3ac5c79" 
+         id:"001215337f694fb4a44264582520d507" 
         }
       });
       
